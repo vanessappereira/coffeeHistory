@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/coffeeHistory/static/css/main.91d9829a.css",
-    "main.js": "/coffeeHistory/static/js/main.5fb811d0.js",
-    "static/js/787.72d8f8ce.chunk.js": "/coffeeHistory/static/js/787.72d8f8ce.chunk.js",
+    "main.css": "/coffeeHistory/static/css/main.7820d095.css",
+    "main.js": "/coffeeHistory/static/js/main.b15fdcf5.js",
+    "static/js/787.e939702f.chunk.js": "/coffeeHistory/static/js/787.e939702f.chunk.js",
     "static/media/coffee_bar.jpg": "/coffeeHistory/static/media/coffee_bar.d902189be9da98ebf23e.jpg",
     "static/media/roasted_coffee_beans.jpg": "/coffeeHistory/static/media/roasted_coffee_beans.87cc3c4378a7567efc8f.jpg",
     "static/media/seeds.jpg": "/coffeeHistory/static/media/seeds.c6f297b729c2fe7f6912.jpg",
     "static/media/pastorKaldi.jpg": "/coffeeHistory/static/media/pastorKaldi.4d74ece2f1370cd4812f.jpg",
     "index.html": "/coffeeHistory/index.html",
-    "main.91d9829a.css.map": "/coffeeHistory/static/css/main.91d9829a.css.map",
-    "main.5fb811d0.js.map": "/coffeeHistory/static/js/main.5fb811d0.js.map",
-    "787.72d8f8ce.chunk.js.map": "/coffeeHistory/static/js/787.72d8f8ce.chunk.js.map"
+    "main.7820d095.css.map": "/coffeeHistory/static/css/main.7820d095.css.map",
+    "main.b15fdcf5.js.map": "/coffeeHistory/static/js/main.b15fdcf5.js.map",
+    "787.e939702f.chunk.js.map": "/coffeeHistory/static/js/787.e939702f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91d9829a.css",
-    "static/js/main.5fb811d0.js"
+    "static/css/main.7820d095.css",
+    "static/js/main.b15fdcf5.js"
   ]
 }
