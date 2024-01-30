@@ -4,7 +4,7 @@ import Cultivation from '../Cultivation/index';
 import Origin from '../Origin/index';
 import './navStyles.css';
 const Navbar = () => {
-    const [showOrigin, setShowOrigin] = React.useState(false);
+    const [showOrigin, setShowOrigin] = React.useState(true);
     const [showCultivation, setShowCultivation] = React.useState(false);
     const [showCoffeeEurope, setShowCoffeeEurope] = React.useState(false);
 
